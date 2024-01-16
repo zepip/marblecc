@@ -16,7 +16,7 @@ function loaded() {
 
 var x = 0;
 
-var titleText = ["z7Joel", "ON" , "Top"];
+var titleText = ["marblecc", "is" , "good" ,"lol"];
 
 function loop() {
 
